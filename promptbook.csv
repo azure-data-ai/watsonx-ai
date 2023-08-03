@@ -1,0 +1,2 @@
+﻿Prompt_Id,Instruction,Question,Example
+1,"The given document content is an employment contract. Answer the question based on the given contract in YES/NO. Summarise the term found in the answer. If the question cannot be answered using the information provided answer with ""I cannot find the terms"".",Extract and list down all the key terms in the given contract?,
